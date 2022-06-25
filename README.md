@@ -1,6 +1,15 @@
 # Hi! I'm Berg Ginú.
 
-I'm a physicist, with interests in Data Analysis and development for Web and Embedded Devices. At the moment you can find some of my public projects here. You can also contact me (try Linkedin for professional contacts and email for academic matters).
+I'm a physicist, with interests in **Data Analysis** and **development** for **Web** and **Embedded Devices**. At the moment you can find some of my public projects here. You can also contact me (try Linkedin for professional contacts and email for academic matters).  
+I **consult** and **accept part-time jobs** in these areas!
+
+<div align="center">
+
+  <a href="https://github.com/bergginu">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bergginu&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
+  </a>
+
+</div>
 
 ## These are my favorite tools to...
 
