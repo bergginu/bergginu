@@ -1,7 +1,6 @@
 # Hi! I'm Berg Ginú.
 
-I'm a physicist, with interests in **Data Analysis** and **development** for **Web** and **Embedded Devices**. At the moment you can find some of my public projects here. You can also contact me (try Linkedin for professional contacts and email for academic matters).  
-I **consult** and **accept part-time jobs** in these areas!
+I'm a programmer who loves **Linux**, **Web Development** and **Data Analysis**. At the moment you can find some of my public projects here. You can also contact me (try Linkedin for professional contacts and email for academic matters).  
 
 <div align="center">
 
