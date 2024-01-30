@@ -1,13 +1,11 @@
 # Hi! I'm Berg Ginú.
 
-I'm a programmer who loves **Linux**, **Data Science** and **Data Analysis**. At the moment you can find some of my public projects here.  
+I'm a programmer who loves **Linux**, **Data Science** and **Data Analysis**. You can find some of my projects in [these repositories](https://github.com/bergginu?tab=repositories) and a portfolio with some of my notes on Data Science and Business Intelligence at [this link](https://bergginu.github.io/).
 
 <div align="center">
   <a href="https://github.com/bergginu">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bergginu&layout=compact&theme=flag-india" />
   </a>
-
-
 </div>
 
 ## These are my favorite tools to...
