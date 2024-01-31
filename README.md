@@ -3,7 +3,7 @@
 I'm a dev who loves **Web** and **Data Science**. You can find some of my projects in [these repositories](https://github.com/bergginu?tab=repositories) and a portfolio with some of my notes on Data Science and Business Intelligence at [this link](https://bergginu.github.io/).  
 
 <a href="https://github.com/bergginu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bergginu&layout=compact&theme=flag-india" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bergginu&layout=compact&theme=buefy" />
 </a>
 
 ## I write things with
